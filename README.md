@@ -1,2 +1,8 @@
-# azzanibot
-bot da azzani geek
+⚠️AVISOS / COMO USAR:⚠️
+
+📁-> antes de rodar os comandos, certifique-se de verificar, se o caminho de execução é o "AzzaniBotSource", se 
+tiver algo no lado, por exemplo /commands {outra pasta}, vai dar erro.
+⚙️-> iniciar o bot [node index.js]
+⚙️-> registrar novos comandos {arquivos .js novos} e fazer o deploy [node deploy-commands.js]
+
+⚠️Certifique-se de que o bot está ligado e, ao atualizar, execute o deploy uma vez, obs: se n for, roda o comando de deploy denovo :D
