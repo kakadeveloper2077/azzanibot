@@ -1,5 +1,5 @@
 ⚠️AVISOS / COMO USAR:⚠️ <br>
-📁-> ao fazer download do projeto, abra a pasta "AzzaniBotSource", no terminal que o node.js foi instalado, se for no cmd, usa la. <br>
+
 📁-> antes de rodar os comandos, certifique-se de verificar, se o caminho de execução é o "AzzaniBotSource", se 
 tiver algo no lado, por exemplo /commands {outra pasta}, vai dar erro. <br>
 ⚙️-> iniciar o bot [node index.js] <br>
